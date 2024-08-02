@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="https://glitch.com/favicon.ico" />
     <title>Katerina's Projects</title>
     <link rel="stylesheet" href="style.css" />
   </head>
@@ -20,6 +19,7 @@
     </div>
 	<p> This is page is a work in progress. While I am working to 
 		add content here, if you would like to see what I am doing 
-		in the meantime, please visit my GitHub here! <a href="https://cdn.glitch.global/9a3a9ee8-8c54-4b11-8a9b-4d22bf6466fe/github.png?v=1719802752214"> here</a></p>
+		in the meantime, please visit my GitHub 
+		<a href="https://cdn.glitch.global/9a3a9ee8-8c54-4b11-8a9b-4d22bf6466fe/github.png?v=1719802752214"> here</a>!</p>
   </body>
 </html>
