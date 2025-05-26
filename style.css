@@ -6,14 +6,15 @@ video {
 }
 
 html {
-  background: linear-gradient(
+  /* background: linear-gradient(
     to right bottom,
     #1b3a4b,
     #212f45,
     #272640,
     #312244,
     #4d194d
-  );
+  ); */
+  background: linear-gradient(to bottom, #ffeeee, #ddefbb);
   background-attachment: fixed; /*edit*/
   padding-left: 50px;
   padding-right: 50px;
