@@ -19,7 +19,7 @@ html {
   padding-left: 50px;
   padding-right: 50px;
   line-height: 1.5;
-  color: #faf9f6;
+  color: #000000;
   font-family: Verdana, sans-serif;
 }
 
@@ -54,16 +54,16 @@ h3
   height: 30px;
   padding: 10px;
   border-bottom: 2px solid rgb(255, 255, 255, 0.7);
-  color: #faf9f6;
+  color: #000000;
 }
 .active {
-  color: #faf9f6;
+  color: #000000;
   padding: 10px;
   border: 0.5px solid rgb(255, 255, 255, 0.7);
-  background: linear-gradient(#1b3a4b, #4d194d);
+  background: linear-gradient(#ffeeee, #ddefbb);
 }
 .navelement {
-  color: #faf9f6;
+  color: #000000;
   padding: 10px;
   border: 0.5px solid rgb(255, 255, 255, 0.7);
 }
@@ -84,7 +84,7 @@ h3
   padding-top: 50px;
   font-size: 40px;
   font-family: Georgia, serif;
-  color: #faf9f6;
+  color: #000000;
 }
 
 .warning {
@@ -108,7 +108,7 @@ h3
 
 /* Resume Related */
 .resume {
-  background: linear-gradient(#1b3a4b, #312244);
+  background: linear-gradient(#ffeeee, #ddefbb);
   margin-left: 5%;
   margin-right: 5%;
 }
