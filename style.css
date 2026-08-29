@@ -15,17 +15,18 @@ html {
 
 .container
 {
-  display: inline-flex;
+  display: flex;
 }
 
 .main
 {
-  width: 750px;
-  height: 1000px;
-  margin-left: 50px;
+  width: 50%;
+  height: 80%;
+  margin: 10% 12.5% 10% .5%;
+  /* margin-left: 50px;
   margin-right: 500px;
   margin-top: 250px;
-  margin-bottom: 250px;
+  margin-bottom: 250px; */
   padding-left: 25px;
   padding-right: 25px;
   background-color: #1a1a19;
@@ -38,11 +39,12 @@ html {
 
 .about
 {
-  width: 250px;
-  height: 1000px;
-  margin-left: 500px;
+  width: 30%;
+  height: 80%;
+  margin: 10% .5% 10% 12.5%;
+  /* margin-left: 500px;
   margin-top: 250px;
-  margin-bottom: 250px;
+  margin-bottom: 250px; */
   padding-left: 25px;
   padding-right: 25px;
   background-color: #1a1a19;
